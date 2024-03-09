@@ -21,7 +21,7 @@ pipeline {
 
                 //non existing file
                 echo 'testing'
-                sh './PES1UG21CS111'
+              //  sh './PES1UG21CS913'
             }
             post {
                 failure {
